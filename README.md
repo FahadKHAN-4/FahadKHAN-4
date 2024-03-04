@@ -1,5 +1,5 @@
 ### :man_technologist: About Me :
-- 🎓 I am a software engineer with some security analyst and machine learning skills. 
+- 🎓 I am a software engineer with machine learning and security analyst skills. 
 
 - ⛵ Programming enthusiat.
 
