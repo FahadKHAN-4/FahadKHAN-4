@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -27,6 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS Dev" alt="iOS Dev" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 <!--
 **FahadKHAN-4/FahadKHAN-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
