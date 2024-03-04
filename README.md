@@ -1,6 +1,3 @@
-### Hi there 👋
-
----
 ### :man_technologist: About Me :
 - 🎓 I am a software engineer with some security analyst and machine learning skills. 
 
@@ -37,10 +34,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
 </div>
 
----
 
 <!--
+
 <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+
+### Hi there 👋
+
+---
+
 **FahadKHAN-4/FahadKHAN-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
