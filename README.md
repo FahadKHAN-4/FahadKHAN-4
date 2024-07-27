@@ -1,9 +1,8 @@
-### :man_technologist: About Me :
-- 🎓 I am a software engineer with machine learning and security analyst skills. 
+### :man_technologist: Hi, I am Fahad, thank you for visiting my profile 🙏🏻
 
-- ⛵ Programming enthusiat.
+- 🎓 I am a technology enthusiat with interest in programming, machine learning and cybersecurity.
 
-- ⚡ In my free time, I go for hike, read about new startups and technologies or read financial articles.
+- ⚡ In my free time, I go for hike, read about new startups and technologies.
 
 ---
 ### 📫: Connect with me :
@@ -30,8 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS Dev" alt="iOS Dev" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS Dev" alt="iOS Dev" width="40" height="40"/>&nbsp; -->
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp; -->
 </div>
 
 
