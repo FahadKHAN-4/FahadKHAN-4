@@ -1,9 +1,8 @@
 ### :man_technologist: Hi, I am Fahad, thank you for visiting my profile 🙏🏻
 
-- 🎓 I am a technology enthusiat with interest in programming, machine learning and cybersecurity.
+- 🎓 I am a technology enthusiat with interest in programming, software development and machine learning.
 
-- ⚡ In my free time, I go for hike, read about new startups and technologies.
-
+- ⚡ In my free time, I go for hike, study new startups or solve important problems that i love.
 ---
 ### 📫: Connect with me :
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fahad-khan-1379911b7/)
