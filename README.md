@@ -7,7 +7,12 @@ Thank you for visiting my profile 🙏🏻
 ⚡ **I enjoy** reading, hiking, running, tech meetups, and solving algorithmic problems.
 
 📫 **Connect with me:**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/muhammad-fahad-khan-1379911b7/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&style=flat-square)](https://www.instagram.com/fahad.khaann/)
+
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?logo=gmail&style=flat-square)](mailto:mfkhan5-c@my.cityu.edu.hk)
 
 ---
 
@@ -55,9 +60,8 @@ Thank you for visiting my profile 🙏🏻
 ---
 
 ## 📊 GitHub Metrics
+![Profile Views](https://komarev.com/ghpvc/?username=FahadKHAN-4&style=flat-square)
 
 ![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FahadKHAN-4&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadKHAN-4&layout=compact&theme=radical)
-
-![Profile Views](https://komarev.com/ghpvc/?username=FahadKHAN-4&style=flat-square)
