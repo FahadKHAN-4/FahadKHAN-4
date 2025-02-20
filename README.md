@@ -1,5 +1,3 @@
-![Profile Banner](https://github.com/FahadKHAN-4/FahadKHAN-4/blob/main/banner.png)
-
 # Hi, I'm Fahad 👋
 
 Thank you for visiting my profile 🙏🏻
@@ -50,7 +48,7 @@ Thank you for visiting my profile 🙏🏻
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
 </div>
 
@@ -63,11 +61,3 @@ Thank you for visiting my profile 🙏🏻
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadKHAN-4&layout=compact&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FahadKHAN-4&style=flat-square)
-
----
-
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FahadKHAN-4&theme=react-dark)
-
----
