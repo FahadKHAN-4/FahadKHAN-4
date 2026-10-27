@@ -1,65 +1,36 @@
-# Hi, I'm Fahad 👋
-
-Thank you for visiting my profile 🙏🏻
-
-🎓 **I am a software developer** with expertise in full-stack development, microservices, and cloud-native applications.
-
-⚡ **I enjoy** reading, hiking, running, tech meetups, and solving algorithmic problems.
-
-📫 **Connect with me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/muhammad-fahad-khan-1379911b7/)
-
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?logo=gmail&style=flat-square)](mailto:mfkhan5-c@my.cityu.edu.hk)
-
----
-
-## 🔧 Languages and Tools
-
-### 📝 Programming Languages
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-</div>
-
-### 📚 Frameworks & Libraries
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
-</div>
-
-### 🗄️ Databases & Streaming
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>
-</div>
-
-### ☁️ DevOps & Cloud
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
-</div>
-
----
-
-## 📊 GitHub Metrics
-![Profile Views](https://komarev.com/ghpvc/?username=FahadKHAN-4&style=flat-square)
-
-![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FahadKHAN-4&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadKHAN-4&layout=compact&theme=radical)
+# 👋 Hi, I'm Fahad
+ 
+**Backend-focused software engineer** in Hong Kong, working on a real-time IoT data platform. I build event-driven microservices with Java, Spring Boot and Kafka, the reactive APIs that serve their data, and the React front-ends on top. I also take my turn on call, so I care about what happens to code after it ships.
+ 
+Outside of work I build things to learn them properly: machine learning models in PyTorch, full-stack apps, and lately tools that bring LLMs and AI agents into everyday developer workflows.
+ 
+## How I work
+ 
+I like systems that are simple to reason about and hard to break. That means clear service boundaries, tests that catch regressions before users do, and enough metrics and logging to know what is actually happening in production.
+ 
+I'm always happy to collaborate, review code or pair on a side project, so feel free to reach out.
+ 
+## Things I've worked on
+ 
+- Event-driven microservices and Kafka stream processing
+- Real-time data streaming to web clients
+- Reactive, high-throughput APIs
+- Large-scale Java version migrations
+- ETL pipelines
+- RAG chatbot with LLMs and vector search
+- CI/CD and infrastructure as code
+- Computer vision models
+## Projects
+ 
+- [FastMRI](https://github.com/FahadKHAN-4/FastMRI): super-resolution for MRI scans using a fine-tuned vision transformer, with a Streamlit demo.
+- [Image Search](https://github.com/FahadKHAN-4/Image-Search): content-based image search engine built on deep image features.
+- [Deepfake Detection](https://github.com/FahadKHAN-4/deepfake-classification): image classifier for spotting deepfakes.
+- [Notes App](https://github.com/FahadKHAN-4/Notes-App): full-stack notes app with authentication and a REST API.
+## Currently
+ 
+Exploring MCP servers and AI agents, and how they fit into real engineering workflows. Also digging into low-latency systems.
+ 
+## Contact
+ 
+- LinkedIn: [Muhammad Fahad Khan](https://www.linkedin.com/in/muhammad-fahad-khan-1379911b7/)
+- LeetCode: [fahadkhaann](https://leetcode.com/u/fahadkhaann/)
