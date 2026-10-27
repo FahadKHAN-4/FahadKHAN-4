@@ -10,8 +10,6 @@ Thank you for visiting my profile 🙏🏻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/muhammad-fahad-khan-1379911b7/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&style=flat-square)](https://www.instagram.com/fahad.khaann/)
-
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red?logo=gmail&style=flat-square)](mailto:mfkhan5-c@my.cityu.edu.hk)
 
 ---
